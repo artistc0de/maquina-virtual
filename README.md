@@ -26,7 +26,7 @@ Wifislax es un sistema operativo especializado en seguridad de redes inalámbric
 
 https://www.wifislax.com/
 
-**Nota:** Este repositorio no proporciona enlaces de descarga ni promueve actividades ilegales. Los sistemas operativos aquí mencionados deben utilizarse únicamente con fines éticos y legales, como pruebas de seguridad y análisis de redes bajo permiso.
+**Nota:** Este repositorio no promueve actividades ilegales. Los sistemas operativos aquí mencionados deben utilizarse únicamente con fines éticos y legales, como pruebas de seguridad y análisis de redes bajo permiso.
 
 Si estás interesado en aprender más sobre ciberseguridad y análisis de redes, te invitamos a explorar más sobre cada uno de estos sistemas operativos.
 
