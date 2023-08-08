@@ -1,3 +1,18 @@
+# Máquinas Virtuales
+
+## VirtualBox
+
+VirtualBox es un software de virtualización que permite ejecutar múltiples sistemas operativos en una sola máquina, simulando entornos separados y aislados.
+
+https://www.virtualbox.org/
+
+## VMware
+
+VMware es una plataforma de virtualización que permite crear y ejecutar máquinas virtuales en un entorno aislado en tu computadora, lo que facilita la ejecución de múltiples sistemas operativos en una sola máquina física.
+
+https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player.html.html
+
+---
 # Sistemas Operativos Especializados en Seguridad
 
 Este repositorio contiene información sobre varios sistemas operativos especializados en seguridad y análisis de redes. Cada sistema operativo tiene un enfoque único en el campo de la ciberseguridad. A continuación, se presenta una breve descripción de cada uno de ellos:
