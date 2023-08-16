@@ -1,5 +1,11 @@
 # Máquinas Virtuales
 
+## Leomoon CPU-V
+
+LeoMoon CPU-V es la única aplicación en Internet que te ayudará a detectar si tu CPU admite la virtualización de hardware que respalda Windows de 32 y 64 bits. También detecta si la virtualización de hardware está habilitada en la BIOS y si la Ejecución de Confianza de Intel (Intel Trusted Execution) está habilitada.
+
+https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/
+
 ## VirtualBox
 
 VirtualBox es un software de virtualización que permite ejecutar múltiples sistemas operativos en una sola máquina, simulando entornos separados y aislados.
